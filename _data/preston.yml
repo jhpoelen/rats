@@ -6,5 +6,5 @@ data_location_comment: "replace [data_location/provenance_location] if content i
   \ hash"
 data_location: "data/"
 provenance_location: "data/"
-preston: "0.3.0"
+version: "0.3.0"
 created_at: "2021-09-22T05:45:03.509Z"
