@@ -7,7 +7,7 @@ id: A biodiversity dataset graph
 
 A biodiversity dataset graph: [{{ site.baseurl | prepend: site.url }}]({{ site.baseurl | prepend: site.url }}). {{ site.data.preston.created_at | date: "%Y" }}. [{{ site.data.preston.archive }}]({{ provenance }})
 
-Biodiversity knowledge graph created using [Preston](https://preston.guoda.bio) v{{ site.data.preston.version }} and [Jekyll](https://jekyllrb.com) v{{ jekyll.version }} on {{ site.data.version.created_at }}
+Biodiversity knowledge graph created using [Preston](https://preston.guoda.bio) v{{ site.data.preston.version }} and [Jekyll](https://jekyllrb.com) v{{ jekyll.version }} on {{ site.data.preston.created_at }}
 
 ## Welcome! 
 

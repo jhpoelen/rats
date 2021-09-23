@@ -5,7 +5,7 @@ permalink: "/4c373e5d-e4ad-450c-90ba-1befedf0c6d0"
 idigbio:
   uuid: "4c373e5d-e4ad-450c-90ba-1befedf0c6d0"
   type: "mediarecords"
-  etag: "a196cca195a09e903f38ff8fc74e70d57b583653"
+  etag: "e9e9ebb0f246641d679221e31e4b3cf19a70ae6a"
   data:
     exif:PixelXDimension: "5486"
     xmpRights:WebStatement: "https://naturalhistory.si.edu/research/nmnh-collections/museum-collections-policies"
@@ -14,7 +14,7 @@ idigbio:
     xmpRights:UsageTerms: "https://creativecommons.org/publicdomain/zero/1.0/"
     ac:licenseLogoURL: "https://www.si.edu/sites/default/files/icons/cc0.svg"
     dc:format: "jpeg, jpeg, jpeg, jpeg, jpeg"
-    coreid: "http://n2t.net/ark:/65665/3c8c29b74-42a4-4838-a19a-86a5d7f48935"
+    coreid: "http://n2t.net/ark:/65665/3426a20ef-b1f0-4318-8d72-4167a7944457"
     dcterms:identifier: "http://collections.nmnh.si.edu/media/index.php?irn=14616907"
     ac:subjectCategoryVocabulary: "Documentation"
     dcterms:rights: "CC0"
@@ -34,8 +34,9 @@ idigbio:
     ypixels: 5486
     hasSpecimen: true
     records:
+    - "369e5ebf-5745-4f1e-acc2-701f39598b44"
     - "a58be431-8001-480a-9267-4307e096464f"
-    etag: "a196cca195a09e903f38ff8fc74e70d57b583653"
+    etag: "e9e9ebb0f246641d679221e31e4b3cf19a70ae6a"
     flags:
     - "dwc_basisofrecord_invalid"
     indexData:
@@ -44,12 +45,12 @@ idigbio:
       ac:licenseLogoURL: "https://www.si.edu/sites/default/files/icons/cc0.svg"
       xmpRights:UsageTerms: "https://creativecommons.org/publicdomain/zero/1.0/"
       exif:PixelYDimension: "4262"
-      coreid: "http://n2t.net/ark:/65665/3c8c29b74-42a4-4838-a19a-86a5d7f48935"
+      coreid: "http://n2t.net/ark:/65665/3426a20ef-b1f0-4318-8d72-4167a7944457"
       dcterms:identifier: "http://collections.nmnh.si.edu/media/index.php?irn=14616907"
       ac:subjectCategoryVocabulary: "Documentation"
       idigbio:recordIds:
       - "a6eee223-cf3b-4079-8bb2-b77dad8cae9d\\media\\http://collections.nmnh.si.edu/media/index.php?irn=14616907"
-      idigbio:dateModified: "2020-08-23T10:06:53.418965"
+      idigbio:dateModified: "2021-04-18T11:29:37.741747"
       dcterms:description: "Ledger Volume 38: USNM 197516-197540"
       ac:providerLiteral: "Smithsonian Institution, NMNH, Mammals"
       idigbio:parent: "a6eee223-cf3b-4079-8bb2-b77dad8cae9d"
@@ -58,8 +59,9 @@ idigbio:
       dc:format: "jpeg, jpeg, jpeg, jpeg, jpeg"
       idigbio:siblings:
         record:
+        - "369e5ebf-5745-4f1e-acc2-701f39598b44"
         - "a58be431-8001-480a-9267-4307e096464f"
-      idigbio:etag: "a196cca195a09e903f38ff8fc74e70d57b583653"
+      idigbio:etag: "e9e9ebb0f246641d679221e31e4b3cf19a70ae6a"
       dcterms:rights: "CC0"
       ac:accessURI: "http://n2t.net/ark:/65665/m3b0f8d803-fb5b-4fbd-98b8-485c6483f22e"
       idigbio:uuid: "4c373e5d-e4ad-450c-90ba-1befedf0c6d0"
@@ -68,7 +70,7 @@ idigbio:
     recordids:
     - "a6eee223-cf3b-4079-8bb2-b77dad8cae9d\\media\\http://collections.nmnh.si.edu/media/index.php?irn=14616907"
     type: "image"
-    datemodified: "2020-08-23T10:06:53.418965+00:00"
+    datemodified: "2021-04-18T11:29:37.741747+00:00"
     accessuri: "http://n2t.net/ark:/65665/m3b0f8d803-fb5b-4fbd-98b8-485c6483f22e"
   attribution:
     uuid: "a6eee223-cf3b-4079-8bb2-b77dad8cae9d"
